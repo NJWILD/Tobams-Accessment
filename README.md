@@ -4,22 +4,8 @@ A pixel-perfect static implementation of the Tobams Group Training and Developme
 
 ## Live URL
 
-> **[https://tobams-frontend-assessment.vercel.app](https://tobams-frontend-assessment.vercel.app)**
+> **[https://tobamsaccessment.vercel.app/](https://tobamsaccessment.vercel.app/)**
 
-Add your actual Vercel URL here after deploying.
-
-## Getting Started
-
-Clone the repo, install dependencies, and run the dev server:
-
-```bash
-git clone https://github.com/yourusername/tobams-frontend-assessment
-cd tobams-frontend-assessment
-npm install
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Stack
 
